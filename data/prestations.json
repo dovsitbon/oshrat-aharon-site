@@ -1,0 +1,15 @@
+{
+  "_note": "À REMPLIR avec les vrais tarifs d'Oshrat. price = prix « à partir de » en shekels (nombre) ; null = « sur demande » sur le site. Aucun prix n'est inventé. Les lignes marquées confirm: true sont à confirmer avec elle (essai, henné/fiançailles).",
+  "currency": "ILS",
+  "services": [
+    { "id": "bride", "price": null, "featured": true },
+    { "id": "trial", "price": null, "confirm": true },
+    { "id": "evening", "price": null },
+    { "id": "companions", "price": null },
+    { "id": "events", "price": null, "confirm": true }
+  ],
+  "extras": [
+    { "id": "travel", "price": null },
+    { "id": "early", "price": null }
+  ]
+}

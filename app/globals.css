@@ -1,0 +1,485 @@
+@import "tailwindcss";
+
+@theme {
+  /* Charte tirée de ses photos : robes blanches, chignons sombres et brillants, intérieurs clairs */
+  --color-ivory: #fbf8f4;
+  --color-pearl: #f1ece6;
+  --color-ivory-deep: #f1ece6;
+  --color-rose: #e9d3ce;
+  --color-nude: #e9d3ce;
+  --color-nude-soft: #f4e8e4;
+  --color-champagne: #e2cfaf;
+  /* Or doux décoratif (filets, tracés) */
+  --color-gold: #bc9c68;
+  /* Or pour le petit texte : 5,2:1 sur ivoire */
+  --color-gold-ink: #7d6037;
+  /* Taupe chaud pour le texte */
+  --color-ink: #3a302c;
+  --color-ink-soft: #4a3f3a;
+  /* Texte secondaire : 7:1 sur ivoire */
+  --color-muted: #5c514b;
+  --color-line: #e7ddd2;
+
+  --font-body: var(--font-jost), "Helvetica Neue", Arial, sans-serif;
+  --font-caps: var(--font-jost), "Helvetica Neue", Arial, sans-serif;
+  --font-display: var(--font-cormorant), Georgia, serif;
+
+  --ease-soft: cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+/* En hébreu : Frank Ruhl Libre pour les titres, Heebo pour le texte (les mots latins retombent sur Cormorant / Jost) */
+[dir="rtl"] {
+  --font-body: var(--font-heebo), var(--font-jost), Arial, sans-serif;
+  --font-caps: var(--font-heebo), var(--font-jost), Arial, sans-serif;
+  --font-display: var(--font-frank), var(--font-cormorant), "Times New Roman", serif;
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    color-scheme: light;
+    scroll-padding-top: 8rem;
+  }
+  body {
+    background: var(--color-ivory);
+    color: var(--color-ink);
+    font-family: var(--font-body);
+    font-weight: 300;
+    -webkit-font-smoothing: antialiased;
+  }
+  a,
+  button,
+  label,
+  select,
+  input,
+  summary {
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+  }
+  h1,
+  h2,
+  h3 {
+    text-wrap: balance;
+  }
+  p {
+    text-wrap: pretty;
+  }
+  ::selection {
+    background: var(--color-nude);
+    color: var(--color-ink);
+  }
+  :focus-visible {
+    outline: 1px solid var(--color-gold-ink);
+    outline-offset: 3px;
+  }
+  [hidden] {
+    display: none !important;
+  }
+  input,
+  select,
+  textarea {
+    font: inherit;
+  }
+}
+
+@layer components {
+  .eyebrow {
+    font-family: var(--font-caps);
+    font-size: 0.6875rem;
+    font-weight: 400;
+    letter-spacing: 0.34em;
+    text-transform: uppercase;
+    color: var(--color-gold-ink);
+  }
+  [dir="rtl"] .eyebrow {
+    letter-spacing: 0.06em;
+    font-size: 0.875rem;
+    font-weight: 500;
+  }
+  /* Grands titres fins : Cormorant Garamond 300 ; Frank Ruhl Libre 300 en hébreu */
+  .display {
+    font-family: var(--font-display);
+    font-weight: 300;
+    line-height: 1.02;
+    letter-spacing: -0.01em;
+  }
+  [dir="rtl"] .display {
+    font-weight: 300;
+    line-height: 1.15;
+    letter-spacing: 0;
+  }
+  .display em {
+    font-style: italic;
+  }
+  .script {
+    font-family: var(--font-script);
+    font-weight: 400;
+    letter-spacing: 0;
+    text-transform: none;
+  }
+  .num {
+    font-family: var(--font-cormorant), Georgia, serif;
+    font-weight: 300;
+    font-variant-numeric: lining-nums tabular-nums;
+    letter-spacing: 0.18em;
+  }
+  .nav-link {
+    font-family: var(--font-caps);
+    font-size: 0.6875rem;
+    font-weight: 400;
+    letter-spacing: 0.26em;
+    text-transform: uppercase;
+  }
+  [dir="rtl"] .nav-link {
+    letter-spacing: 0.04em;
+    font-size: 0.9375rem;
+    font-weight: 400;
+  }
+  .lead {
+    font-size: 1.0625rem;
+    line-height: 1.9;
+    color: var(--color-muted);
+  }
+  .btn-line,
+  .btn-solid {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    min-height: 3.25rem;
+    padding: 0.9rem 2.2rem;
+    font-family: var(--font-caps);
+    font-size: 0.6875rem;
+    font-weight: 400;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    border-radius: 0;
+    transition:
+      background-color 0.7s var(--ease-soft),
+      color 0.7s var(--ease-soft),
+      border-color 0.7s var(--ease-soft);
+  }
+  [dir="rtl"] .btn-line,
+  [dir="rtl"] .btn-solid {
+    letter-spacing: 0.04em;
+    font-size: 0.9375rem;
+  }
+  .btn-line {
+    border: 1px solid currentColor;
+  }
+  .btn-line:hover {
+    background: var(--color-ink);
+    border-color: var(--color-ink);
+    color: var(--color-ivory);
+  }
+  .btn-line.on-dark:hover {
+    background: var(--color-ivory);
+    border-color: var(--color-ivory);
+    color: var(--color-ink);
+  }
+  .btn-solid {
+    background: var(--color-ink);
+    color: var(--color-ivory);
+    border: 1px solid var(--color-ink);
+  }
+  .btn-solid:hover {
+    background: var(--color-gold-ink);
+    border-color: var(--color-gold-ink);
+  }
+  .link-line {
+    background: linear-gradient(currentColor, currentColor) no-repeat 0 100% / 100% 1px;
+    padding-bottom: 0.3em;
+    transition: background-size 0.6s var(--ease-soft);
+  }
+  [dir="rtl"] .link-line {
+    background-position: 100% 100%;
+  }
+  .link-line:hover {
+    background-size: 0 1px;
+  }
+
+  .field {
+    width: 100%;
+    border: 0;
+    border-bottom: 1px solid var(--color-line);
+    background: transparent;
+    padding: 0.75rem 0;
+    font-size: 1rem;
+    color: var(--color-ink);
+    border-radius: 0;
+    transition: border-color 0.4s;
+  }
+  .field:focus {
+    outline: none;
+    border-color: var(--color-ink);
+  }
+  .field[aria-invalid="true"] {
+    border-color: var(--color-gold-ink);
+  }
+  .field::placeholder {
+    color: #9a8f84;
+  }
+  .label {
+    display: block;
+    font-family: var(--font-caps);
+    font-size: 0.6875rem;
+    font-weight: 400;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--color-muted);
+  }
+  [dir="rtl"] .label {
+    letter-spacing: 0.02em;
+    font-size: 0.9375rem;
+  }
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    border: 1px solid var(--color-line);
+    border-radius: 999px;
+    min-height: 2.75rem;
+    padding: 0.5rem 1.15rem;
+    font-size: 0.9375rem;
+    cursor: pointer;
+    transition:
+      border-color 0.3s,
+      background-color 0.3s,
+      color 0.3s;
+  }
+  .chip:hover {
+    border-color: var(--color-ink);
+  }
+  .chip:has(input:checked),
+  .chip[aria-pressed="true"] {
+    border-color: var(--color-ink);
+    background: var(--color-ink);
+    color: var(--color-ivory);
+  }
+  .chip:has(input:focus-visible) {
+    outline: 1px solid var(--color-gold-ink);
+    outline-offset: 3px;
+  }
+
+  /* Photos : zoom très doux au survol */
+  .shine {
+    position: relative;
+    overflow: hidden;
+  }
+  .shine img,
+  .shine video {
+    transition: transform 1.8s var(--ease-soft);
+  }
+  .shine:hover img,
+  .group:hover .shine img {
+    transform: scale(1.04);
+  }
+}
+
+/* Apparition au défilement (components/Reveal.tsx) */
+html.js .reveal:not(.in) {
+  opacity: 0;
+  transform: translateY(var(--reveal-y, 24px));
+}
+.reveal {
+  transition:
+    opacity 1.3s var(--ease-soft) var(--reveal-delay, 0s),
+    transform 1.3s var(--ease-soft) var(--reveal-delay, 0s);
+}
+.fade-in {
+  animation: fade-in 0.5s var(--ease-soft) both;
+}
+.fade-up {
+  animation: rise 0.7s var(--ease-soft) both;
+}
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+}
+.rise {
+  animation: rise 1.8s var(--ease-soft) both;
+}
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+}
+.drift {
+  animation: drift 26s ease-in-out infinite alternate;
+}
+@keyframes drift {
+  from {
+    transform: scale(1.02);
+  }
+  to {
+    transform: scale(1.1);
+  }
+}
+.scroll-line {
+  animation: scroll-line 2.6s var(--ease-soft) infinite;
+  transform-origin: top;
+}
+@keyframes scroll-line {
+  0% {
+    transform: scaleY(0);
+  }
+  45% {
+    transform: scaleY(1);
+    transform-origin: top;
+  }
+  55% {
+    transform: scaleY(1);
+    transform-origin: bottom;
+  }
+  100% {
+    transform: scaleY(0);
+    transform-origin: bottom;
+  }
+}
+
+/* Lenis */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+/* ——— Ouverture (≤ 2 s) : une fine ligne dorée dessine une mèche ondulée qui s'enroule, une épingle à perle se pose au bout,
+   « OSHRAT AHARON » apparaît, puis « אושרת אהרון » et « BRIDAL & EVENING HAIR », fondu sur le hero. ——— */
+.intro-curtain {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  background: var(--color-ivory);
+  animation: intro-out 0.4s ease-out 1.6s forwards;
+}
+html.intro-seen .intro-curtain {
+  display: none;
+}
+@keyframes intro-out {
+  to {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+.intro-stroke {
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  animation: intro-draw 0.9s cubic-bezier(0.55, 0, 0.3, 1) 0.05s forwards;
+}
+@keyframes intro-draw {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+.intro-pin {
+  opacity: 0;
+  transform-box: fill-box;
+  transform-origin: 10% 60%;
+  animation: intro-pin 0.45s cubic-bezier(0.22, 0.61, 0.36, 1) var(--d) forwards;
+}
+@keyframes intro-pin {
+  from {
+    opacity: 0;
+    transform: translate(10px, -8px) rotate(-8deg);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+.intro-name {
+  opacity: 0;
+  animation: intro-fade 0.5s ease-out 0.8s forwards;
+}
+.intro-fade {
+  opacity: 0;
+  animation: intro-fade 0.45s ease-out var(--d) forwards;
+}
+@keyframes intro-fade {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  .intro-curtain {
+    display: none;
+  }
+  .scroll-line,
+  .drift {
+    animation: none;
+  }
+  html.js .reveal:not(.in) {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* Puces sur fond sombre */
+.chip.on-dark {
+  border-color: rgb(251 248 244 / 0.3);
+}
+.chip.on-dark:hover {
+  border-color: var(--color-ivory);
+}
+.chip.on-dark[aria-pressed="true"] {
+  border-color: var(--color-ivory);
+  background: var(--color-ivory);
+  color: var(--color-ink);
+}
+
+/* Filet or champagne très fin */
+.hairline {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--color-gold), transparent);
+}
+
+/* Lignes en capitales latines au milieu d'une page en hébreu : on garde le style latin */
+.eyebrow[dir="ltr"] {
+  font-family: var(--font-jost), Arial, sans-serif;
+  font-size: 0.6875rem;
+  font-weight: 400;
+  letter-spacing: 0.34em;
+}
+@media (max-width: 480px) {
+  .eyebrow[dir="ltr"] {
+    letter-spacing: 0.22em;
+    font-size: 0.625rem;
+  }
+}
+
+/* Champ date / heure : icône du calendrier discrète */
+.field::-webkit-calendar-picker-indicator {
+  opacity: 0.55;
+  cursor: pointer;
+}
+/* Barre « vérifier ma date » du hero */
+.datebar .field {
+  padding: 0.35rem 0 0.55rem;
+}
+
+/* Bandeau d'infos refermé */
+html.infobar-closed .infobar {
+  display: none;
+}

@@ -1,0 +1,546 @@
+{
+  "meta": {
+    "title": "Peluquera de novias y de fiesta en Israel | Oshrat Aharon – Bridal Hair",
+    "description": "Oshrat Aharon, peluquera de novias y de fiesta en Israel: recogidos, semirrecogidos, ondas, colocación del velo, peinados para acompañantes y masterclass privadas para peluqueras. Se desplaza al lugar donde te arreglas.",
+    "ogAlt": "Novia con largas ondas brillantes, peinado de Oshrat Aharon",
+    "bridal": {
+      "title": "Peinados de novia: recogido, semirrecogido y ondas | Oshrat Aharon",
+      "description": "Un peinado de novia que aguanta toda la noche: recogido, semirrecogido, ondas, velo y accesorios. Oshrat Aharon va al lugar donde te arreglas en Israel. Comprueba si tu fecha está libre."
+    },
+    "evening": {
+      "title": "Peinados de fiesta y para acompañantes | Oshrat Aharon",
+      "description": "Peinados de fiesta para la madre de la novia, hermanas, damas de honor e invitadas: recogidos, ondas, coletas y trenzas. Envía la fecha y el lugar para comprobar disponibilidad."
+    },
+    "masterclass": {
+      "title": "Masterclass privada de peinado para peluqueras | Oshrat Aharon",
+      "description": "Masterclass privada y formación de peinados para peluqueras: recogidos de novia, ondas que aguantan, velo y accesorios, con Oshrat Aharon. Deja tus datos para inscribirte."
+    },
+    "legal": {
+      "title": "Aviso legal y privacidad | Oshrat Aharon",
+      "description": "Aviso legal, privacidad y derechos de las fotos del sitio de Oshrat Aharon, peluquera de novias y de fiesta."
+    }
+  },
+  "nav": {
+    "skip": "Ir al contenido",
+    "home": "Oshrat Aharon, inicio",
+    "menu": "Menú",
+    "close": "Cerrar",
+    "language": "Idioma",
+    "brides": "Novias",
+    "evening": "Fiesta",
+    "masterclass": "Masterclass",
+    "gallery": "Galería",
+    "tips": "Consejos",
+    "contact": "Contacto",
+    "book": "Comprobar mi fecha",
+    "bookShort": "Mi fecha"
+  },
+  "infobar": {
+    "text": "Respuesta de domingo a jueves, de 8:30 a 17:00",
+    "reminder": "Indica la fecha y el lugar de tu evento",
+    "close": "Cerrar el aviso"
+  },
+  "intro": {
+    "skip": "Saltar"
+  },
+  "hero": {
+    "eyebrow": "BRIDAL & EVENING HAIRSTYLES",
+    "title": "Un peinado que te acompaña toda la noche",
+    "text": "Peinados de novia y de fiesta pensados para tu vestido, tu rostro y tu noche. Voy al lugar donde te arreglas.",
+    "cta": "Comprobar mi fecha",
+    "whatsapp": "WhatsApp"
+  },
+  "datebar": {
+    "title": "¿Tu fecha está libre?",
+    "date": "Fecha del evento",
+    "city": "Ciudad donde te arreglas",
+    "cityPlaceholder": "Ej.: Tel Aviv",
+    "people": "Personas",
+    "peopleHint": "contigo incluida",
+    "submit": "Comprobar"
+  },
+  "tiles": {
+    "eyebrow": "Servicios",
+    "title": "Tres formas de trabajar juntas",
+    "items": [
+      {
+        "name": "La novia",
+        "label": "Peinado de novia",
+        "text": "Recogido, semirrecogido u ondas, con la colocación del velo y los accesorios. Pensado para tu vestido y tu rostro, hecho para durar hasta el último baile.",
+        "link": "Peinados de novia"
+      },
+      {
+        "name": "Fiesta y acompañantes",
+        "label": "Peinados de fiesta",
+        "text": "Para tu madre, tus hermanas, tus amigas y tus invitadas. Cada una con su peinado, la misma mañana y en el mismo lugar.",
+        "link": "Peinados de fiesta"
+      },
+      {
+        "name": "Masterclass privada",
+        "label": "Formación",
+        "text": "Formación individual para peluqueras: recogidos, ondas que aguantan y cómo organizar una mañana de boda.",
+        "link": "La masterclass"
+      }
+    ]
+  },
+  "manifesto": {
+    "eyebrow": "Mi forma de trabajar",
+    "title": "Cada novia tiene su peinado.",
+    "text": "Empiezo por tu vestido, el escote y tu rostro, y por cómo quieres sentirte esa noche. Juntas creamos un solo peinado, el tuyo: natural en las fotos, delicado de cerca, y que sigue en su sitio después de la jupá, los bailes y los abrazos.",
+    "bleed": "De la jupá al último baile"
+  },
+  "services": {
+    "eyebrow": "Servicios y precios",
+    "title": "Qué incluye",
+    "text": "El precio final depende de la fecha, el lugar y el número de personas a peinar. Envíame los datos y te respondo con un presupuesto claro.",
+    "from": "Desde",
+    "onRequest": "Precio a consultar",
+    "featured": "El más pedido",
+    "items": {
+      "bride": {
+        "name": "Peinado de novia el día de la boda",
+        "text": "Recogido, semirrecogido u ondas, con la colocación del velo y los accesorios.",
+        "includes": [
+          "Conversación previa sobre el vestido y el velo",
+          "Desplazamiento al lugar donde te arreglas",
+          "Colocación del velo y los accesorios",
+          "Horquillas y productos de fijación profesionales"
+        ]
+      },
+      "trial": {
+        "name": "Prueba de peinado",
+        "text": "Antes de la boda, para elegir juntas el peinado y ver cómo aguanta.",
+        "includes": [
+          "Elección del estilo según tus fotos de inspiración",
+          "Prueba con el velo o los accesorios",
+          "Últimos ajustes"
+        ]
+      },
+      "evening": {
+        "name": "Peinado de fiesta",
+        "text": "Para un evento, una henna, un bar mitzvá o cualquier noche en la que quieras sentirte impecable.",
+        "includes": [
+          "Recogido, ondas, coleta o trenza",
+          "Adaptado al vestido y al evento"
+        ]
+      },
+      "companions": {
+        "name": "Acompañantes de la novia",
+        "text": "Madre, hermanas, amigas: cada una con su peinado, la misma mañana.",
+        "includes": [
+          "Horario según el número de personas",
+          "Coordinado con la novia"
+        ]
+      },
+      "events": {
+        "name": "Henna, pedida y eventos",
+        "text": "Un peinado para una henna, una pedida o una fiesta familiar.",
+        "includes": [
+          "Adaptado a tu vestido",
+          "Desplazamiento al lugar donde te arreglas"
+        ]
+      }
+    },
+    "extrasTitle": "Suplementos",
+    "extras": {
+      "travel": {
+        "name": "Desplazamiento",
+        "text": "Según el lugar donde te arreglas, detallado en el presupuesto."
+      },
+      "early": {
+        "name": "Salida temprana",
+        "text": "Cuando empezamos antes de cierta hora de la mañana."
+      }
+    },
+    "cta": "Comprobar mi fecha"
+  },
+  "about": {
+    "eyebrow": "Encantada",
+    "title": "Oshrat Aharon",
+    "text": [
+      "Soy peluquera y me especializo en peinados de novia y de fiesta. Casi todas mis semanas empiezan una mañana de boda, en casa de una novia o en una suite, con un café, un espejo y horquillas.",
+      "Quiero que te sientas tranquila y acompañada desde tu primer mensaje hasta que sales hacia la jupá. Me encanta trabajar junto a la maquilladora, a tu ritmo y con mucha paciencia."
+    ],
+    "cta": "Escríbeme por WhatsApp",
+    "photoAlt": "Oshrat Aharon, peluquera de novias y de fiesta"
+  },
+  "gallery": {
+    "eyebrow": "Nuestras novias",
+    "title": "De cerca",
+    "text": "Novias a las que he peinado a lo largo de los años. Toca una foto para verla en grande.",
+    "filters": {
+      "all": "Todo",
+      "chignon": "Recogido",
+      "waves": "Ondas",
+      "halfup": "Semirrecogido",
+      "accessories": "Velo y accesorios"
+    },
+    "open": "Ampliar la foto",
+    "lightbox": {
+      "close": "Cerrar",
+      "prev": "Foto anterior",
+      "next": "Foto siguiente",
+      "counter": "{n} de {total}"
+    }
+  },
+  "words": {
+    "eyebrow": "Palabras de novias",
+    "title": "Lo que cuentan las novias",
+    "text": "Los mensajes de mis novias están guardados en la historia destacada «כלות מפרגנות» de Instagram.",
+    "cta": "Ver la historia en Instagram"
+  },
+  "process": {
+    "eyebrow": "Cómo funciona",
+    "title": "Del primer mensaje a la jupá",
+    "steps": [
+      {
+        "t": "Envías la fecha y el lugar",
+        "x": "Por el formulario o por WhatsApp: la fecha, la ciudad donde te arreglas y cuántas personas hay que peinar."
+      },
+      {
+        "t": "Confirmo mi disponibilidad",
+        "x": "Te respondo de domingo a jueves, con un presupuesto."
+      },
+      {
+        "t": "La prueba, si la quieres",
+        "x": "Nos vemos antes de la boda y elegimos juntas el estilo."
+      },
+      {
+        "t": "El gran día",
+        "x": "Voy al lugar donde te arreglas, te peino, coloco el velo y me quedo hasta que todo esté perfecto."
+      }
+    ]
+  },
+  "masterclass": {
+    "eyebrow": "Formación de peinado",
+    "title": "Masterclass privada",
+    "text": "Formación individual para peluqueras que quieren trabajar con novias: cómo construir un recogido que aguante, ondas que no caigan y una mañana de boda tranquila y organizada.",
+    "formatTitle": "Formato",
+    "format": "Privado, individual",
+    "durationTitle": "Duración",
+    "hours": "{n} horas",
+    "priceTitle": "Precio",
+    "seatsTitle": "Plazas",
+    "onRequest": "A consultar",
+    "programTitle": "Programa",
+    "program": [
+      {
+        "t": "Preparar el cabello",
+        "x": "Base, volumen y productos que aguantan todo el evento."
+      },
+      {
+        "t": "El recogido de novia",
+        "x": "Bajo, suelto o alto, paso a paso."
+      },
+      {
+        "t": "Las ondas",
+        "x": "Suaves o de Hollywood, y la técnica que las mantiene."
+      },
+      {
+        "t": "Velo y accesorios",
+        "x": "Dónde y cómo fijar un velo, una tiara u horquillas sin estropear el peinado."
+      },
+      {
+        "t": "El día de la boda",
+        "x": "Horarios, trabajo con acompañantes y fotos de tu trabajo."
+      }
+    ],
+    "includedTitle": "Incluye",
+    "included": [
+      "Práctica con modelo",
+      "Resumen escrito de los pasos",
+      "Seguimiento por WhatsApp después de la formación"
+    ],
+    "levelsTitle": "Para quién",
+    "upcoming": "Próximas fechas",
+    "soon": "Las fechas se fijan de forma individual",
+    "soonText": "Deja tus datos y elegimos juntas una fecha que te venga bien.",
+    "cta": "Quiero inscribirme",
+    "more": "Todo sobre la masterclass"
+  },
+  "tips": {
+    "eyebrow": "Consejos para la boda",
+    "title": "Antes del gran día",
+    "items": [
+      {
+        "t": "El pelo, las semanas antes",
+        "x": "Una mascarilla hidratante cada semana y un corte ligero un mes antes. ¿Color? Mejor dos semanas antes, no el día anterior."
+      },
+      {
+        "t": "Según el vestido y el velo",
+        "x": "Una espalda abierta pide recogido. Un escote corazón o de hombros descubiertos queda bien con ondas. Un velo largo decide dónde va el peinado."
+      },
+      {
+        "t": "Fotos de inspiración",
+        "x": "Envíame dos o tres peinados que te encanten, y uno que no te guste nada. Me ayuda más que cualquier explicación."
+      },
+      {
+        "t": "La mañana de la boda",
+        "x": "Pelo limpio y bien seco, sin aceites ni cremas. Una camisa con botones, para no pasar nada por la cabeza."
+      },
+      {
+        "t": "Qué tener preparado",
+        "x": "El velo, los accesorios, las horquillas que te hayan regalado y una mesa cerca de una ventana."
+      },
+      {
+        "t": "El horario",
+        "x": "Deja margen. Organizamos juntas la mañana: quién empieza, cuándo llegan la maquilladora y el fotógrafo."
+      }
+    ]
+  },
+  "partners": {
+    "eyebrow": "En equipo",
+    "title": "Maquilladoras con las que trabajo",
+    "text": "¿Aún no tienes maquilladora? Te puedo recomendar una."
+  },
+  "zone": {
+    "eyebrow": "Dónde",
+    "title": "Voy a donde estés",
+    "text": "Me desplazo al lugar donde te arreglas: casa, suite, hotel o salón. Dime la ciudad y te digo qué es posible en tu fecha.",
+    "cityText": "Tengo mi base en {city} y me desplazo a otras ciudades según la fecha."
+  },
+  "faq": {
+    "eyebrow": "Preguntas",
+    "title": "Preguntas frecuentes",
+    "items": [
+      {
+        "q": "¿Cuándo respondes a los mensajes?",
+        "a": "De domingo a jueves, de 8:30 a 17:00. Los mensajes que llegan después de las 17:00 reciben respuesta al día siguiente, salvo urgencias."
+      },
+      {
+        "q": "¿Te desplazas?",
+        "a": "Sí, voy al lugar donde te arreglas. El coste del desplazamiento depende del lugar y aparece en el presupuesto."
+      },
+      {
+        "q": "¿A qué hora llegas el día de la boda?",
+        "a": "La fijamos según la hora de las fotos y el número de personas a peinar. Suelo llegar unas horas antes de las fotos, para que no haya prisas."
+      },
+      {
+        "q": "¿Hace falta una prueba?",
+        "a": "No es obligatoria, pero ayuda a elegir el estilo con calma y a ver cómo aguanta el peinado. Lo hablamos cuando te responda."
+      },
+      {
+        "q": "¿Cuántas personas puedes peinar la misma mañana?",
+        "a": "Depende de la hora y de los peinados. Dime cuántas sois y preparo un horario a medida."
+      },
+      {
+        "q": "¿Cómo se reserva la fecha?",
+        "a": "Cuando confirmo que la fecha está libre, se reserva con una señal. Te envío los detalles con el presupuesto."
+      }
+    ]
+  },
+  "booking": {
+    "eyebrow": "Comprobar mi fecha",
+    "title": "Cuéntame tu evento",
+    "text": "Unos pocos datos, y me llegan ordenados por WhatsApp. Te respondo con mi disponibilidad y un presupuesto.",
+    "tabsLabel": "Tipo de consulta",
+    "tabs": {
+      "event": "Evento",
+      "class": "Masterclass"
+    },
+    "steps": {
+      "event": "El evento",
+      "style": "El peinado",
+      "class": "La formación",
+      "contact": "Tus datos"
+    },
+    "fields": {
+      "type": "Tipo de evento",
+      "types": {
+        "wedding": "Boda",
+        "henna": "Henna",
+        "engagement": "Pedida",
+        "evening": "Fiesta / evento",
+        "other": "Otro"
+      },
+      "date": "Fecha",
+      "dateTaken": "Esta fecha ya está ocupada, pero pregunta igualmente: a veces se libera.",
+      "dateFree": "Parece que la fecha está libre. Te lo confirmo por mensaje.",
+      "city": "Ciudad donde te arreglas",
+      "cityPlaceholder": "Ciudad y, si lo sabes, el lugar",
+      "time": "Hora a la que debes estar lista",
+      "style": "¿Qué peinado?",
+      "styles": {
+        "chignon": "Recogido",
+        "halfup": "Semirrecogido",
+        "waves": "Ondas",
+        "unsure": "Aún no lo sé"
+      },
+      "people": "Personas a peinar",
+      "peopleHint": "contigo incluida",
+      "trial": "¿Quieres una prueba?",
+      "makeup": "¿Buscas también maquilladora?",
+      "yesno": {
+        "yes": "Sí",
+        "no": "No"
+      },
+      "name": "Nombre",
+      "phone": "Teléfono",
+      "inspiration": "Enviaré una foto de inspiración por WhatsApp",
+      "message": "Algo más",
+      "messagePlaceholder": "El vestido, el velo, lo que te importa…",
+      "optional": "opcional",
+      "level": "Tu experiencia",
+      "levels": {
+        "beginner": "Estoy empezando",
+        "pro": "Peluquera en activo"
+      },
+      "format": "Formato",
+      "formats": {
+        "private": "Privado",
+        "group": "Grupo reducido"
+      },
+      "when": "Tu disponibilidad",
+      "whenPlaceholder": "Fechas o meses posibles",
+      "instagram": "Instagram"
+    },
+    "calendar": {
+      "title": "Fechas ocupadas",
+      "taken": "Ocupada",
+      "prev": "Mes anterior",
+      "next": "Mes siguiente",
+      "updated": "Actualizado el"
+    },
+    "required": "Este campo es necesario",
+    "invalidPhone": "Este número no parece válido",
+    "submit": "Enviar por WhatsApp",
+    "hours": "Respondo de domingo a jueves, de 8:30 a 17:00. Los mensajes enviados después de las 17:00 reciben respuesta al día siguiente.",
+    "success": {
+      "thanks": "Gracias",
+      "title": "Tu mensaje está listo en WhatsApp",
+      "text": "Si WhatsApp no se ha abierto, usa el botón. Te respondo muy pronto. ¡Mazal tov!",
+      "again": "Abrir WhatsApp",
+      "reset": "Nueva consulta"
+    },
+    "message": {
+      "eventTitle": "Consulta de fecha",
+      "classTitle": "Inscripción a la masterclass",
+      "type": "Evento",
+      "date": "Fecha",
+      "city": "Lugar donde me arreglo",
+      "time": "Lista a las",
+      "style": "Peinado",
+      "people": "Personas a peinar",
+      "trial": "Prueba",
+      "makeup": "Busco maquilladora",
+      "name": "Nombre",
+      "phone": "Teléfono",
+      "notes": "Comentarios",
+      "inspiration": "Envío aquí una foto de inspiración",
+      "level": "Experiencia",
+      "format": "Formato",
+      "when": "Disponibilidad",
+      "instagram": "Instagram",
+      "closing": "Enviado desde la web"
+    }
+  },
+  "whatsapp": {
+    "hello": "Hola Oshrat, vengo de tu web. Me gustaría comprobar una fecha:",
+    "float": "Escríbeme por WhatsApp"
+  },
+  "footer": {
+    "tagline": "Peinados de novia y de fiesta, y formación para peluqueras.",
+    "contact": "Contacto",
+    "explore": "En la web",
+    "hours": "Dom.–jue., 8:30 – 17:00",
+    "rights": "Todos los derechos reservados",
+    "photos": "Todas las fotos: novias peinadas por Oshrat Aharon",
+    "legal": "Aviso legal y privacidad"
+  },
+  "pages": {
+    "bridal": {
+      "eyebrow": "BRIDAL HAIRSTYLES",
+      "title": "Peinados de novia",
+      "intro": "Un peinado de novia tiene que verse bien en la primera foto y en el último baile. Lo construyo según tu vestido, tu velo y tu rostro, y voy al lugar donde te arreglas.",
+      "stylesTitle": "Cuatro estilos, mil versiones",
+      "styles": [
+        {
+          "t": "Recogido",
+          "x": "Bajo y pulido, suelto y suave, o alto y espectacular. Ideal con espalda abierta y velo largo."
+        },
+        {
+          "t": "Semirrecogido",
+          "x": "El rostro despejado y el largo suelto. Se puede añadir una horquilla, flores o un lazo."
+        },
+        {
+          "t": "Ondas",
+          "x": "Suaves o de Hollywood, brillantes y llenas, y siguen ahí al final de la noche."
+        },
+        {
+          "t": "Velo y accesorios",
+          "x": "Tiara, horquillas de perlas o flores, fijadas para que no se muevan, ni siquiera bailando."
+        }
+      ],
+      "cta": "Comprobar mi fecha"
+    },
+    "evening": {
+      "eyebrow": "EVENING HAIRSTYLES",
+      "title": "Peinados de fiesta",
+      "intro": "Para la madre de la novia, las hermanas, las amigas o tu propio evento. Un peinado que va con el vestido y con la noche, y que no se mueve aunque bailes.",
+      "stylesTitle": "Para cada ocasión",
+      "styles": [
+        {
+          "t": "Ondas",
+          "x": "Brillantes y llenas, largas o a la altura de los hombros."
+        },
+        {
+          "t": "Recogido",
+          "x": "Elegante y pulido, para un cuello alto o una espalda abierta."
+        },
+        {
+          "t": "Coletas y trenzas",
+          "x": "Una coleta alta y lisa o una trenza suave para una fiesta más joven."
+        }
+      ],
+      "companionsTitle": "Las acompañantes",
+      "companionsText": "Peinar a varias personas la misma mañana es cuestión de horarios. Dime cuántas sois y a qué hora tenéis que estar listas, y preparo un plan claro.",
+      "cta": "Comprobar mi fecha"
+    },
+    "masterclass": {
+      "eyebrow": "PRIVATE MASTERCLASS",
+      "intro": "Una formación privada a tu ritmo, con una modelo real y todo lo que he aprendido en mañanas de boda.",
+      "cta": "Quiero inscribirme"
+    },
+    "legal": {
+      "title": "Aviso legal y privacidad",
+      "sections": [
+        {
+          "t": "Titular del sitio",
+          "x": "Oshrat Aharon, peluquera de novias y de fiesta, Israel. Teléfono: +972 54-940-9503."
+        },
+        {
+          "t": "Privacidad",
+          "x": "El sitio no guarda lo que escribes en el formulario. El mensaje se abre en tu WhatsApp y eres tú quien lo envía. No se usan cookies publicitarias."
+        },
+        {
+          "t": "Fotos",
+          "x": "Todas las fotos del sitio son trabajos de Oshrat Aharon, publicados con permiso. Por favor, no las reutilices sin autorización."
+        },
+        {
+          "t": "Precios",
+          "x": "Los precios son «desde» y no constituyen una oferta vinculante. El precio final se fija en un presupuesto personal."
+        }
+      ]
+    },
+    "back": "Volver al inicio"
+  },
+  "alt": {
+    "ondulations": "Novia con largas ondas brillantes, peinado de Oshrat Aharon",
+    "chignon-dos": "Recogido bajo de novia visto de espaldas, sobre un vestido con espalda abierta",
+    "chignon-bijou": "Recogido bajo de novia con una joya en el pelo",
+    "chignon-flou": "Recogido suelto de novia con mechones alrededor del rostro",
+    "chignon-bas": "Recogido bajo y pulido de novia, de perfil",
+    "chignon-haut": "Recogido alto de novia con volumen",
+    "semi-attache": "Peinado de novia semirrecogido con ondas",
+    "queue-de-cheval": "Coleta larga con ondas brillantes",
+    "couronne": "Peinado de novia con tiara y accesorios",
+    "fleurs": "Ondas rubias con un adorno de flores",
+    "soiree-attache": "Coleta alta de fiesta con mechones que enmarcan el rostro",
+    "soiree-ondulations": "Peinado de fiesta con ondas llenas",
+    "tresse": "Trenza fina lateral con ondas largas",
+    "masterclass-gestes": "Manos de una peluquera ajustando el peinado de una novia",
+    "masterclass-coulisses": "Detrás de las cámaras de una sesión, rizos semirrecogidos",
+    "lisse": "Pelo largo, liso y brillante visto de espaldas",
+    "oshrat": "Oshrat Aharon, peluquera de novias y de fiesta"
+  }
+}

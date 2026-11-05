@@ -1,0 +1,546 @@
+{
+  "meta": {
+    "title": "Coiffeuse de mariées et de soirée en Israël | Oshrat Aharon – Bridal Hair",
+    "description": "Oshrat Aharon, coiffeuse de mariées et de soirée en Israël : chignons, semi-attachés, ondulations, pose du voile, coiffures d'accompagnantes et masterclass privées pour coiffeuses. Elle se déplace sur le lieu des préparatifs.",
+    "ogAlt": "Mariée aux longues ondulations brillantes, coiffure d'Oshrat Aharon",
+    "bridal": {
+      "title": "Coiffure de mariée : chignon, semi-attaché, ondulations | Oshrat Aharon",
+      "description": "Une coiffure de mariée qui tient toute la nuit : chignon, semi-attaché, ondulations, pose du voile et des accessoires. Oshrat Aharon vient sur le lieu de vos préparatifs en Israël. Vérifiez votre date."
+    },
+    "evening": {
+      "title": "Coiffures de soirée et d'accompagnantes | Oshrat Aharon",
+      "description": "Coiffures de soirée pour la mère de la mariée, les sœurs, les demoiselles d'honneur et les invitées : chignon, ondulations, queue-de-cheval, tresses. Envoyez la date et le lieu."
+    },
+    "masterclass": {
+      "title": "Masterclass coiffure privée pour coiffeuses | Oshrat Aharon",
+      "description": "Masterclass privée et formations coiffure pour coiffeuses : chignons de mariée, ondulations qui tiennent, pose du voile et des accessoires, avec Oshrat Aharon. Laissez vos coordonnées."
+    },
+    "legal": {
+      "title": "Mentions légales et confidentialité | Oshrat Aharon",
+      "description": "Mentions légales, confidentialité et droits sur les photos du site d'Oshrat Aharon, coiffeuse de mariées et de soirée."
+    }
+  },
+  "nav": {
+    "skip": "Aller au contenu",
+    "home": "Oshrat Aharon, accueil",
+    "menu": "Menu",
+    "close": "Fermer",
+    "language": "Langue",
+    "brides": "Mariées",
+    "evening": "Soirée",
+    "masterclass": "Masterclass",
+    "gallery": "Galerie",
+    "tips": "Conseils",
+    "contact": "Contact",
+    "book": "Vérifier ma date",
+    "bookShort": "Ma date"
+  },
+  "infobar": {
+    "text": "Réponse du dimanche au jeudi, 8 h 30 – 17 h",
+    "reminder": "Indiquez la date et le lieu de votre événement",
+    "close": "Fermer le message"
+  },
+  "intro": {
+    "skip": "Passer"
+  },
+  "hero": {
+    "eyebrow": "BRIDAL & EVENING HAIRSTYLES",
+    "title": "Une coiffure qui tient toute la nuit",
+    "text": "Coiffures de mariée et de soirée pensées pour votre robe, votre visage et votre soirée. Je viens sur le lieu de vos préparatifs.",
+    "cta": "Vérifier ma date",
+    "whatsapp": "WhatsApp"
+  },
+  "datebar": {
+    "title": "Votre date est-elle libre ?",
+    "date": "Date de l'événement",
+    "city": "Ville des préparatifs",
+    "cityPlaceholder": "Ex. : Tel-Aviv",
+    "people": "Personnes",
+    "peopleHint": "vous comprise",
+    "submit": "Vérifier"
+  },
+  "tiles": {
+    "eyebrow": "Prestations",
+    "title": "Trois façons de travailler ensemble",
+    "items": [
+      {
+        "name": "La mariée",
+        "label": "Coiffure de mariée",
+        "text": "Chignon, semi-attaché ou ondulations, avec la pose du voile et des accessoires. Pensée pour votre robe et votre visage, faite pour tenir jusqu'à la dernière danse.",
+        "link": "Coiffures de mariée"
+      },
+      {
+        "name": "Soirée et accompagnantes",
+        "label": "Coiffures de soirée",
+        "text": "Pour votre mère, vos sœurs, vos amies et vos invitées. Chacune a sa coiffure, le même matin, au même endroit.",
+        "link": "Coiffures de soirée"
+      },
+      {
+        "name": "Masterclass privée",
+        "label": "Formation",
+        "text": "Une formation en tête-à-tête pour les coiffeuses : chignons, ondulations qui tiennent et organisation d'un jour de mariage.",
+        "link": "La masterclass"
+      }
+    ]
+  },
+  "manifesto": {
+    "eyebrow": "Ma façon de travailler",
+    "title": "Chaque mariée a sa coiffure.",
+    "text": "Je pars de votre robe, de l'encolure et de votre visage, et aussi de la façon dont vous voulez vous sentir ce soir-là. Ensemble, nous construisons une seule coiffure, la vôtre : naturelle en photo, délicate de près, et qui tient après la houppa, les danses et les embrassades.",
+    "bleed": "De la houppa à la dernière danse"
+  },
+  "services": {
+    "eyebrow": "Prestations et tarifs",
+    "title": "Ce qui est inclus",
+    "text": "Le prix final dépend de la date, du lieu et du nombre de personnes à coiffer. Envoyez-moi ces informations et je reviens vers vous avec une proposition claire.",
+    "from": "À partir de",
+    "onRequest": "Tarif sur demande",
+    "featured": "Le plus demandé",
+    "items": {
+      "bride": {
+        "name": "Coiffure de mariée, le jour J",
+        "text": "Chignon, semi-attaché ou ondulations, avec la pose du voile et des accessoires.",
+        "includes": [
+          "Échange préalable sur la robe et le voile",
+          "Déplacement sur le lieu des préparatifs",
+          "Pose du voile et des accessoires",
+          "Épingles et produits de tenue professionnels"
+        ]
+      },
+      "trial": {
+        "name": "Essai de coiffure",
+        "text": "Avant le mariage, pour choisir ensemble la coiffure et voir comment elle tient.",
+        "includes": [
+          "Choix du style d'après vos photos d'inspiration",
+          "Essai avec le voile ou les accessoires",
+          "Derniers ajustements"
+        ]
+      },
+      "evening": {
+        "name": "Coiffure de soirée",
+        "text": "Pour un événement, un henné, une bar-mitsva ou tout soir où vous voulez être parfaite.",
+        "includes": [
+          "Chignon, ondulations, queue-de-cheval ou tresse",
+          "Adaptée à la tenue et à l'événement"
+        ]
+      },
+      "companions": {
+        "name": "Accompagnantes de la mariée",
+        "text": "Mère, sœurs, amies : chacune sa coiffure, le même matin.",
+        "includes": [
+          "Planning établi selon le nombre de personnes",
+          "Organisé avec la mariée"
+        ]
+      },
+      "events": {
+        "name": "Henné, fiançailles et événements",
+        "text": "Une coiffure pour un henné, des fiançailles ou une fête de famille.",
+        "includes": [
+          "Adaptée à la tenue",
+          "Déplacement sur le lieu des préparatifs"
+        ]
+      }
+    },
+    "extrasTitle": "Suppléments",
+    "extras": {
+      "travel": {
+        "name": "Déplacement",
+        "text": "Selon le lieu des préparatifs, précisé dans la proposition."
+      },
+      "early": {
+        "name": "Départ tôt le matin",
+        "text": "Quand on commence avant une certaine heure."
+      }
+    },
+    "cta": "Vérifier ma date"
+  },
+  "about": {
+    "eyebrow": "Enchantée",
+    "title": "Oshrat Aharon",
+    "text": [
+      "Je suis coiffeuse, spécialisée dans les coiffures de mariée et de soirée. La plupart de mes semaines commencent un matin de mariage, chez une mariée ou dans une suite, avec un café, un miroir et des épingles.",
+      "Je tiens à ce que vous vous sentiez sereine et entourée, du premier message jusqu'à la houppa. J'aime travailler en duo avec la maquilleuse, à votre rythme et avec beaucoup de patience."
+    ],
+    "cta": "M'écrire sur WhatsApp",
+    "photoAlt": "Oshrat Aharon, coiffeuse de mariées et de soirée"
+  },
+  "gallery": {
+    "eyebrow": "Nos mariées",
+    "title": "De près",
+    "text": "Des mariées que j'ai coiffées au fil des années. Touchez une photo pour l'agrandir.",
+    "filters": {
+      "all": "Tout",
+      "chignon": "Chignon",
+      "waves": "Ondulations",
+      "halfup": "Semi-attaché",
+      "accessories": "Voile et accessoires"
+    },
+    "open": "Agrandir la photo",
+    "lightbox": {
+      "close": "Fermer",
+      "prev": "Photo précédente",
+      "next": "Photo suivante",
+      "counter": "{n} sur {total}"
+    }
+  },
+  "words": {
+    "eyebrow": "Les mots des mariées",
+    "title": "Ce qu'elles en disent",
+    "text": "Les messages de mes mariées sont réunis dans la story « כלות מפרגנות » sur Instagram.",
+    "cta": "Voir la story sur Instagram"
+  },
+  "process": {
+    "eyebrow": "Comment ça marche",
+    "title": "Du premier message à la houppa",
+    "steps": [
+      {
+        "t": "Vous envoyez la date et le lieu",
+        "x": "Par le formulaire ou sur WhatsApp : la date, la ville des préparatifs et le nombre de personnes à coiffer."
+      },
+      {
+        "t": "Je confirme ma disponibilité",
+        "x": "Je vous réponds du dimanche au jeudi, avec un devis."
+      },
+      {
+        "t": "L'essai, si prévu",
+        "x": "Nous nous voyons avant le mariage pour choisir ensemble le style."
+      },
+      {
+        "t": "Le jour J",
+        "x": "Je viens sur le lieu des préparatifs, je coiffe, je pose le voile et je reste jusqu'à ce que tout soit parfait."
+      }
+    ]
+  },
+  "masterclass": {
+    "eyebrow": "Formations coiffure",
+    "title": "Masterclass privée",
+    "text": "Une formation en tête-à-tête pour les coiffeuses qui veulent travailler avec des mariées : construire un chignon qui tient, des ondulations qui ne retombent pas, et un jour de mariage organisé et serein.",
+    "formatTitle": "Format",
+    "format": "Privé, en tête-à-tête",
+    "durationTitle": "Durée",
+    "hours": "{n} heures",
+    "priceTitle": "Tarif",
+    "seatsTitle": "Places",
+    "onRequest": "Sur demande",
+    "programTitle": "Programme",
+    "program": [
+      {
+        "t": "Préparer le cheveu",
+        "x": "Base, volume et produits qui tiennent toute la soirée."
+      },
+      {
+        "t": "Le chignon de mariée",
+        "x": "Bas, flou ou haut, étape par étape."
+      },
+      {
+        "t": "Les ondulations",
+        "x": "Souples ou hollywoodiennes, et la technique qui les fait tenir."
+      },
+      {
+        "t": "Voile et accessoires",
+        "x": "Où et comment fixer un voile, une couronne, des épingles sans abîmer la coiffure."
+      },
+      {
+        "t": "Le jour du mariage",
+        "x": "Planning, accompagnantes et photos de votre travail."
+      }
+    ],
+    "includedTitle": "Inclus",
+    "included": [
+      "Pratique sur modèle",
+      "Récapitulatif écrit des étapes",
+      "Suivi sur WhatsApp après la formation"
+    ],
+    "levelsTitle": "Pour qui",
+    "upcoming": "Prochaines dates",
+    "soon": "Les dates se fixent individuellement",
+    "soonText": "Laissez vos coordonnées et nous choisirons ensemble une date qui vous convient.",
+    "cta": "Je veux m'inscrire",
+    "more": "Tout sur la masterclass"
+  },
+  "tips": {
+    "eyebrow": "Conseils pour le mariage",
+    "title": "Avant le grand jour",
+    "items": [
+      {
+        "t": "Les cheveux, les semaines avant",
+        "x": "Un masque hydratant chaque semaine et une coupe légère un mois avant. Une couleur ? Plutôt deux semaines avant, pas la veille."
+      },
+      {
+        "t": "Selon la robe et le voile",
+        "x": "Un dos nu appelle un chignon. Un décolleté cœur ou des épaules nues vont bien aux ondulations. Un voile long décide de l'emplacement de la coiffure."
+      },
+      {
+        "t": "Des photos d'inspiration",
+        "x": "Envoyez deux ou trois coiffures que vous aimez, et une que vous n'aimez pas du tout. Cela m'aide plus que de longues explications."
+      },
+      {
+        "t": "Le matin du mariage",
+        "x": "Cheveux propres et bien secs, sans huile ni crème. Une chemise boutonnée, pour ne rien passer par la tête."
+      },
+      {
+        "t": "Quoi préparer",
+        "x": "Le voile, les accessoires, les épingles qu'on vous a offertes, et une table près d'une fenêtre."
+      },
+      {
+        "t": "Le planning",
+        "x": "Gardez de la marge. Nous fixons ensemble l'ordre de la matinée : qui commence, quand arrivent la maquilleuse et le photographe."
+      }
+    ]
+  },
+  "partners": {
+    "eyebrow": "En duo",
+    "title": "Les maquilleuses avec qui je travaille",
+    "text": "Vous n'avez pas encore de maquilleuse ? Je peux vous en recommander une."
+  },
+  "zone": {
+    "eyebrow": "Où",
+    "title": "Je viens à vous",
+    "text": "Je me déplace sur le lieu de vos préparatifs : maison, suite, hôtel ou salle. Dites-moi la ville, je vous dirai ce qui est possible à votre date.",
+    "cityText": "Je suis basée à {city} et je me déplace dans d'autres villes selon la date."
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "title": "Questions fréquentes",
+    "items": [
+      {
+        "q": "Quand répondez-vous aux messages ?",
+        "a": "Du dimanche au jeudi, de 8 h 30 à 17 h. Les messages reçus après 17 h ont une réponse le lendemain, sauf urgence."
+      },
+      {
+        "q": "Vous déplacez-vous ?",
+        "a": "Oui, je viens sur le lieu des préparatifs. Les frais de déplacement dépendent du lieu et figurent dans le devis."
+      },
+      {
+        "q": "À quelle heure arrivez-vous le jour J ?",
+        "a": "Nous la fixons selon l'heure des photos et le nombre de personnes à coiffer. J'arrive en général quelques heures avant les photos, pour éviter tout stress."
+      },
+      {
+        "q": "Faut-il faire un essai ?",
+        "a": "Ce n'est pas obligatoire, mais cela permet de choisir le style au calme et de voir comment la coiffure tient. Nous en parlerons quand je vous répondrai."
+      },
+      {
+        "q": "Combien de personnes pouvez-vous coiffer le même matin ?",
+        "a": "Cela dépend de l'heure et des coiffures. Indiquez-moi le nombre de personnes et je prépare un planning adapté."
+      },
+      {
+        "q": "Comment réserver la date ?",
+        "a": "Une fois la disponibilité confirmée, la date est bloquée avec un acompte. Je vous envoie les détails avec le devis."
+      }
+    ]
+  },
+  "booking": {
+    "eyebrow": "Vérifier ma date",
+    "title": "Parlez-moi de votre événement",
+    "text": "Quelques informations, et elles m'arrivent bien rangées sur WhatsApp. Je reviens vers vous avec mes disponibilités et un devis.",
+    "tabsLabel": "Type de demande",
+    "tabs": {
+      "event": "Événement",
+      "class": "Masterclass"
+    },
+    "steps": {
+      "event": "L'événement",
+      "style": "La coiffure",
+      "class": "La formation",
+      "contact": "Vos coordonnées"
+    },
+    "fields": {
+      "type": "Type d'événement",
+      "types": {
+        "wedding": "Mariage",
+        "henna": "Henné",
+        "engagement": "Fiançailles",
+        "evening": "Soirée / événement",
+        "other": "Autre"
+      },
+      "date": "Date",
+      "dateTaken": "Cette date est déjà prise, mais n'hésitez pas à demander : il arrive qu'elle se libère.",
+      "dateFree": "Cette date semble libre. Je vous le confirme par message.",
+      "city": "Ville des préparatifs",
+      "cityPlaceholder": "Ville, et le lieu si vous le connaissez",
+      "time": "Heure à laquelle vous devez être prête",
+      "style": "Quelle coiffure ?",
+      "styles": {
+        "chignon": "Chignon",
+        "halfup": "Semi-attaché",
+        "waves": "Ondulations",
+        "unsure": "Je ne sais pas encore"
+      },
+      "people": "Personnes à coiffer",
+      "peopleHint": "vous comprise",
+      "trial": "Souhaitez-vous un essai ?",
+      "makeup": "Cherchez-vous une maquilleuse ?",
+      "yesno": {
+        "yes": "Oui",
+        "no": "Non"
+      },
+      "name": "Nom",
+      "phone": "Téléphone",
+      "inspiration": "J'enverrai une photo d'inspiration sur WhatsApp",
+      "message": "Autre chose",
+      "messagePlaceholder": "La robe, le voile, ce qui compte pour vous…",
+      "optional": "facultatif",
+      "level": "Votre expérience",
+      "levels": {
+        "beginner": "Je débute",
+        "pro": "Coiffeuse en activité"
+      },
+      "format": "Format",
+      "formats": {
+        "private": "Privé",
+        "group": "Petit groupe"
+      },
+      "when": "Vos disponibilités",
+      "whenPlaceholder": "Dates ou mois possibles",
+      "instagram": "Instagram"
+    },
+    "calendar": {
+      "title": "Dates déjà prises",
+      "taken": "Prise",
+      "prev": "Mois précédent",
+      "next": "Mois suivant",
+      "updated": "Mis à jour le"
+    },
+    "required": "Ce champ est nécessaire",
+    "invalidPhone": "Ce numéro ne semble pas valide",
+    "submit": "Envoyer sur WhatsApp",
+    "hours": "Je réponds du dimanche au jeudi, de 8 h 30 à 17 h. Un message envoyé après 17 h a une réponse le lendemain.",
+    "success": {
+      "thanks": "Merci",
+      "title": "Votre message est prêt sur WhatsApp",
+      "text": "Si WhatsApp ne s'est pas ouvert, utilisez le bouton. Je vous réponds au plus vite. Mazal tov !",
+      "again": "Ouvrir WhatsApp",
+      "reset": "Nouvelle demande"
+    },
+    "message": {
+      "eventTitle": "Vérification de date",
+      "classTitle": "Inscription à la masterclass",
+      "type": "Événement",
+      "date": "Date",
+      "city": "Lieu des préparatifs",
+      "time": "Prête à",
+      "style": "Coiffure",
+      "people": "Personnes à coiffer",
+      "trial": "Essai",
+      "makeup": "Cherche une maquilleuse",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "notes": "Remarques",
+      "inspiration": "J'envoie une photo d'inspiration ici",
+      "level": "Expérience",
+      "format": "Format",
+      "when": "Disponibilités",
+      "instagram": "Instagram",
+      "closing": "Envoyé depuis le site"
+    }
+  },
+  "whatsapp": {
+    "hello": "Bonjour Oshrat, je viens de votre site. J'aimerais vérifier une date :",
+    "float": "M'écrire sur WhatsApp"
+  },
+  "footer": {
+    "tagline": "Coiffures de mariée et de soirée, et formations pour coiffeuses.",
+    "contact": "Contact",
+    "explore": "Sur le site",
+    "hours": "Dim.–jeu. : 8 h 30 – 17 h",
+    "rights": "Tous droits réservés",
+    "photos": "Toutes les photos : mariées coiffées par Oshrat Aharon",
+    "legal": "Mentions légales et confidentialité"
+  },
+  "pages": {
+    "bridal": {
+      "eyebrow": "BRIDAL HAIRSTYLES",
+      "title": "Coiffures de mariée",
+      "intro": "Une coiffure de mariée doit être belle sur la première photo comme à la dernière danse. Je la construis selon votre robe, votre voile et votre visage, et je viens sur le lieu de vos préparatifs.",
+      "stylesTitle": "Quatre styles, mille variantes",
+      "styles": [
+        {
+          "t": "Chignon",
+          "x": "Bas et net, flou et doux, ou haut et spectaculaire. Idéal avec un dos nu et un voile long."
+        },
+        {
+          "t": "Semi-attaché",
+          "x": "Le visage dégagé, les longueurs libres. On peut y ajouter une épingle, des fleurs ou un nœud."
+        },
+        {
+          "t": "Ondulations",
+          "x": "Souples ou hollywoodiennes, brillantes et pleines, elles tiennent jusqu'au bout de la nuit."
+        },
+        {
+          "t": "Voile et accessoires",
+          "x": "Couronne, épingles perlées ou fleurs, fixées pour ne pas bouger, même en dansant."
+        }
+      ],
+      "cta": "Vérifier ma date"
+    },
+    "evening": {
+      "eyebrow": "EVENING HAIRSTYLES",
+      "title": "Coiffures de soirée",
+      "intro": "Pour la mère de la mariée, les sœurs, les amies ou votre propre événement. Une coiffure assortie à la robe et à la soirée, qui reste en place même quand on danse.",
+      "stylesTitle": "Pour chaque événement",
+      "styles": [
+        {
+          "t": "Ondulations",
+          "x": "Brillantes et pleines, longues ou à hauteur d'épaules."
+        },
+        {
+          "t": "Chignon",
+          "x": "Élégant et net, pour une robe à col ou un dos nu."
+        },
+        {
+          "t": "Queue-de-cheval et tresses",
+          "x": "Une queue haute et lisse ou une tresse souple pour une fête plus jeune."
+        }
+      ],
+      "companionsTitle": "Les accompagnantes",
+      "companionsText": "Coiffer plusieurs personnes le même matin, c'est d'abord une question de planning. Dites-moi combien vous êtes et à quelle heure il faut être prêtes, je prépare un déroulé précis.",
+      "cta": "Vérifier ma date"
+    },
+    "masterclass": {
+      "eyebrow": "PRIVATE MASTERCLASS",
+      "intro": "Une formation privée à votre rythme, sur un vrai modèle, avec tout ce que j'ai appris lors de matinées de mariage.",
+      "cta": "Je veux m'inscrire"
+    },
+    "legal": {
+      "title": "Mentions légales et confidentialité",
+      "sections": [
+        {
+          "t": "Éditrice du site",
+          "x": "Oshrat Aharon, coiffeuse de mariées et de soirée, Israël. Téléphone : +972 54-940-9503."
+        },
+        {
+          "t": "Confidentialité",
+          "x": "Le site n'enregistre pas les informations saisies dans le formulaire. Le message s'ouvre dans votre WhatsApp, et c'est vous qui l'envoyez. Le site n'utilise pas de cookies publicitaires."
+        },
+        {
+          "t": "Photos",
+          "x": "Toutes les photos du site sont des réalisations d'Oshrat Aharon, publiées avec accord. Merci de ne pas les reproduire sans autorisation."
+        },
+        {
+          "t": "Tarifs",
+          "x": "Les prix indiqués sont « à partir de » et ne constituent pas une offre ferme. Le prix final est fixé dans un devis personnalisé."
+        }
+      ]
+    },
+    "back": "Retour à l'accueil"
+  },
+  "alt": {
+    "ondulations": "Mariée aux longues ondulations brillantes, coiffure d'Oshrat Aharon",
+    "chignon-dos": "Chignon bas de mariée vu de dos, au-dessus d'une robe dos nu",
+    "chignon-bijou": "Chignon bas de mariée orné d'un bijou de cheveux",
+    "chignon-flou": "Chignon flou de mariée avec des mèches libres autour du visage",
+    "chignon-bas": "Chignon bas et net de mariée, vu de profil",
+    "chignon-haut": "Chignon haut de mariée, avec du volume",
+    "semi-attache": "Coiffure de mariée semi-attachée avec ondulations",
+    "queue-de-cheval": "Longue queue-de-cheval aux ondulations brillantes",
+    "couronne": "Coiffure de mariée avec couronne et accessoires",
+    "fleurs": "Ondulations blondes ornées de fleurs",
+    "soiree-attache": "Queue-de-cheval haute de soirée avec mèches autour du visage",
+    "soiree-ondulations": "Coiffure de soirée en ondulations pleines",
+    "tresse": "Tresse fine sur le côté et longues ondulations",
+    "masterclass-gestes": "Mains d'une coiffeuse ajustant la coiffure d'une mariée",
+    "masterclass-coulisses": "Coulisses d'un shooting, boucles semi-attachées",
+    "lisse": "Longs cheveux lisses et brillants vus de dos",
+    "oshrat": "Oshrat Aharon, coiffeuse de mariées et de soirée"
+  }
+}

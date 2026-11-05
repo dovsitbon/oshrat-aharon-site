@@ -1,0 +1,14 @@
+{
+  "name": "אושרת אהרון – מעצבת שיער תסרוקות כלה וערב",
+  "nameLatin": "Oshrat Aharon – Bridal & Evening Hair",
+  "url": "https://oshrat-aharon.vercel.app",
+  "phone": "054-940-9503",
+  "phoneIntl": "+972 54-940-9503",
+  "whatsapp": "972549409503",
+  "whatsappBusiness": "https://wa.me/message/OIWPIJDQUBR3B1",
+  "instagram": "https://www.instagram.com/oshrataharonhairstyle/",
+  "instagramHandle": "@oshrataharonhairstyle",
+  "_city": "À CONFIRMER : ville de base et zone de déplacement (null = texte générique « partout en Israël, selon la date »)",
+  "city": null,
+  "hours": { "days": "0-4", "open": "08:30", "close": "17:00" }
+}

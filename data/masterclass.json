@@ -1,0 +1,9 @@
+{
+  "_note": "À REMPLIR avec Oshrat : format, durée, prix, nombre de places, prochaines dates (AAAA-MM-JJ). null / [] = « sur demande » ou « dates à venir » sur le site. Rien n'est inventé.",
+  "format": "private",
+  "hours": null,
+  "price": null,
+  "currency": "ILS",
+  "seats": null,
+  "sessions": []
+}

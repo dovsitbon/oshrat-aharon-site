@@ -1,0 +1,546 @@
+{
+  "meta": {
+    "title": "Bridal & Evening Hairstylist in Israel | Oshrat Aharon – Bridal Hair",
+    "description": "Oshrat Aharon, bridal and evening hairstylist in Israel: updos, half-up styles, waves, veil placement, bridal party hair and private masterclasses for hairstylists. She comes to your getting-ready location.",
+    "ogAlt": "Bride with long glossy waves, hair by Oshrat Aharon",
+    "bridal": {
+      "title": "Bridal Hair: Updos, Half-Up & Waves | Oshrat Aharon",
+      "description": "Bridal hair that lasts all night: updos, half-up styles, waves, veil and accessory placement. Oshrat Aharon comes to your getting-ready location in Israel. Check if your date is free."
+    },
+    "evening": {
+      "title": "Evening & Bridal Party Hairstyles | Oshrat Aharon",
+      "description": "Evening hairstyles for the mother of the bride, sisters, bridesmaids and guests: updos, waves, ponytails and braids. Send your date and location to check availability."
+    },
+    "masterclass": {
+      "title": "Private Hair Masterclass for Hairstylists | Oshrat Aharon",
+      "description": "Private hair masterclass and training for hairstylists: bridal updos, waves that hold, veil and accessory work, with Oshrat Aharon. Leave your details to sign up."
+    },
+    "legal": {
+      "title": "Legal & Privacy | Oshrat Aharon",
+      "description": "Legal notice, privacy and photo rights for the website of Oshrat Aharon, bridal and evening hairstylist."
+    }
+  },
+  "nav": {
+    "skip": "Skip to content",
+    "home": "Oshrat Aharon, home",
+    "menu": "Menu",
+    "close": "Close",
+    "language": "Language",
+    "brides": "Brides",
+    "evening": "Evening",
+    "masterclass": "Masterclass",
+    "gallery": "Gallery",
+    "tips": "Tips",
+    "contact": "Contact",
+    "book": "Check my date",
+    "bookShort": "My date"
+  },
+  "infobar": {
+    "text": "Replies Sunday to Thursday, 8:30 am – 5 pm",
+    "reminder": "Please include the date and location of your event",
+    "close": "Close message"
+  },
+  "intro": {
+    "skip": "Skip"
+  },
+  "hero": {
+    "eyebrow": "BRIDAL & EVENING HAIRSTYLES",
+    "title": "Hair that stays with you all night",
+    "text": "Bridal and evening hairstyles shaped around your dress, your face and your night. I come to wherever you're getting ready.",
+    "cta": "Check my date",
+    "whatsapp": "WhatsApp"
+  },
+  "datebar": {
+    "title": "Is your date free?",
+    "date": "Event date",
+    "city": "Getting-ready city",
+    "cityPlaceholder": "e.g. Tel Aviv",
+    "people": "People",
+    "peopleHint": "including you",
+    "submit": "Check"
+  },
+  "tiles": {
+    "eyebrow": "Services",
+    "title": "Three ways to work together",
+    "items": [
+      {
+        "name": "The bride",
+        "label": "Bridal hair",
+        "text": "Updo, half-up or waves, with veil and accessory placement. Shaped around your dress and face, made to last until the last dance.",
+        "link": "Bridal hair"
+      },
+      {
+        "name": "Evening & bridal party",
+        "label": "Evening hair",
+        "text": "For your mother, sisters, friends and guests. Each one gets her own style, the same morning, in the same place.",
+        "link": "Evening hair"
+      },
+      {
+        "name": "Private masterclass",
+        "label": "Training",
+        "text": "One-to-one training for hairstylists: updos, waves that hold, and how to run a wedding morning.",
+        "link": "The masterclass"
+      }
+    ]
+  },
+  "manifesto": {
+    "eyebrow": "How I work",
+    "title": "Every bride has her own hairstyle.",
+    "text": "I start with your dress, the neckline and your face, and with how you want to feel that night. Together we build one hairstyle, yours: natural in photos, delicate up close, and still in place after the chuppah, the dancing and all the hugs.",
+    "bleed": "From the chuppah to the last dance"
+  },
+  "services": {
+    "eyebrow": "Services & prices",
+    "title": "What's included",
+    "text": "The final price depends on the date, the location and how many people need styling. Send me the details and I'll come back with a clear quote.",
+    "from": "From",
+    "onRequest": "Price on request",
+    "featured": "Most requested",
+    "items": {
+      "bride": {
+        "name": "Wedding-day bridal hair",
+        "text": "Updo, half-up or waves, including veil and accessory placement.",
+        "includes": [
+          "Consultation on the dress and veil",
+          "Travel to your getting-ready location",
+          "Veil and accessory placement",
+          "Professional pins and hold products"
+        ]
+      },
+      "trial": {
+        "name": "Hair trial",
+        "text": "Before the wedding, to choose your style together and see how it holds.",
+        "includes": [
+          "Style chosen from your inspiration photos",
+          "Trial with the veil or accessories",
+          "Final adjustments"
+        ]
+      },
+      "evening": {
+        "name": "Evening hairstyle",
+        "text": "For an event, a henna, a bar mitzvah or any night you want to feel put-together.",
+        "includes": [
+          "Updo, waves, ponytail or braid",
+          "Matched to your outfit and event"
+        ]
+      },
+      "companions": {
+        "name": "Bridal party",
+        "text": "Mother, sisters, friends: each one with her own style, the same morning.",
+        "includes": [
+          "Schedule planned by number of people",
+          "Coordinated with the bride"
+        ]
+      },
+      "events": {
+        "name": "Henna, engagement & events",
+        "text": "A hairstyle for a henna, an engagement or a family celebration.",
+        "includes": [
+          "Matched to your outfit",
+          "Travel to your getting-ready location"
+        ]
+      }
+    },
+    "extrasTitle": "Extras",
+    "extras": {
+      "travel": {
+        "name": "Travel",
+        "text": "Depends on the getting-ready location, detailed in your quote."
+      },
+      "early": {
+        "name": "Early start",
+        "text": "When we begin before a certain time in the morning."
+      }
+    },
+    "cta": "Check my date"
+  },
+  "about": {
+    "eyebrow": "Nice to meet you",
+    "title": "Oshrat Aharon",
+    "text": [
+      "I'm a hairstylist specialising in bridal and evening hair. Most of my weeks begin on a wedding morning, in a bride's home or a suite, with coffee, a mirror and a box of pins.",
+      "I want you to feel calm and looked after, from your first message until you walk to the chuppah. I love working alongside the makeup artist, at your pace and with plenty of patience."
+    ],
+    "cta": "Message me on WhatsApp",
+    "photoAlt": "Oshrat Aharon, bridal and evening hairstylist"
+  },
+  "gallery": {
+    "eyebrow": "Our brides",
+    "title": "Up close",
+    "text": "Brides I've styled over the years. Tap a photo to see it larger.",
+    "filters": {
+      "all": "All",
+      "chignon": "Updos",
+      "waves": "Waves",
+      "halfup": "Half-up",
+      "accessories": "Veil & accessories"
+    },
+    "open": "Open photo",
+    "lightbox": {
+      "close": "Close",
+      "prev": "Previous photo",
+      "next": "Next photo",
+      "counter": "{n} of {total}"
+    }
+  },
+  "words": {
+    "eyebrow": "Kind words",
+    "title": "What brides say",
+    "text": "Messages from my brides are saved in the “כלות מפרגנות” story highlight on Instagram.",
+    "cta": "See the story on Instagram"
+  },
+  "process": {
+    "eyebrow": "How it works",
+    "title": "From first message to the chuppah",
+    "steps": [
+      {
+        "t": "Send your date and location",
+        "x": "Through the form or on WhatsApp: the date, the getting-ready city and how many people need styling."
+      },
+      {
+        "t": "I confirm availability",
+        "x": "I reply Sunday to Thursday, with a quote."
+      },
+      {
+        "t": "The trial, if booked",
+        "x": "We meet before the wedding and choose your style together."
+      },
+      {
+        "t": "The big day",
+        "x": "I come to where you're getting ready, style your hair, place the veil and stay until everything is right."
+      }
+    ]
+  },
+  "masterclass": {
+    "eyebrow": "Hair training",
+    "title": "Private masterclass",
+    "text": "One-to-one training for hairstylists who want to work with brides: building an updo that holds, waves that don't drop, and a calm, organised wedding morning.",
+    "formatTitle": "Format",
+    "format": "Private, one-to-one",
+    "durationTitle": "Length",
+    "hours": "{n} hours",
+    "priceTitle": "Price",
+    "seatsTitle": "Places",
+    "onRequest": "On request",
+    "programTitle": "Programme",
+    "program": [
+      {
+        "t": "Hair prep",
+        "x": "Base, volume and products that hold through the whole event."
+      },
+      {
+        "t": "The bridal updo",
+        "x": "Low, soft or high, step by step."
+      },
+      {
+        "t": "Waves",
+        "x": "Soft or Hollywood waves, and the technique that keeps them."
+      },
+      {
+        "t": "Veil & accessories",
+        "x": "Where and how to secure a veil, a tiara or pins without ruining the style."
+      },
+      {
+        "t": "The wedding day",
+        "x": "Timing, working with the bridal party, and photographing your work."
+      }
+    ],
+    "includedTitle": "Included",
+    "included": [
+      "Hands-on practice on a model",
+      "Written step-by-step summary",
+      "WhatsApp follow-up after the training"
+    ],
+    "levelsTitle": "Who it's for",
+    "upcoming": "Upcoming dates",
+    "soon": "Dates are set individually",
+    "soonText": "Leave your details and we'll pick a date that suits you.",
+    "cta": "I want to sign up",
+    "more": "All about the masterclass"
+  },
+  "tips": {
+    "eyebrow": "Wedding tips",
+    "title": "Before the big day",
+    "items": [
+      {
+        "t": "Hair in the weeks before",
+        "x": "A hydrating mask once a week and a light trim a month before. Colour? Two weeks before, not the day before."
+      },
+      {
+        "t": "Match the dress and veil",
+        "x": "An open back loves an updo. A sweetheart or off-shoulder neckline suits waves. A long veil decides where the style sits."
+      },
+      {
+        "t": "Inspiration photos",
+        "x": "Send two or three styles you love, and one you really don't. It helps me more than any explanation."
+      },
+      {
+        "t": "On the morning",
+        "x": "Clean, fully dry hair, no oils or creams. A button-up shirt, so nothing goes over your head."
+      },
+      {
+        "t": "What to have ready",
+        "x": "Your veil, accessories, any pins you were given, and a table near a window."
+      },
+      {
+        "t": "The schedule",
+        "x": "Leave yourself room. We'll set the morning order together: who goes first, when the makeup artist and photographer arrive."
+      }
+    ]
+  },
+  "partners": {
+    "eyebrow": "Together",
+    "title": "Makeup artists I work with",
+    "text": "No makeup artist yet? I'm happy to recommend one."
+  },
+  "zone": {
+    "eyebrow": "Where",
+    "title": "I come to you",
+    "text": "I travel to wherever you're getting ready: home, suite, hotel or venue. Tell me the city and I'll let you know what's possible on your date.",
+    "cityText": "I'm based in {city} and travel to other cities depending on the date."
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "title": "Frequently asked questions",
+    "items": [
+      {
+        "q": "When do you reply to messages?",
+        "a": "Sunday to Thursday, 8:30 am to 5 pm. Messages sent after 5 pm get a reply the next day, unless it's urgent."
+      },
+      {
+        "q": "Do you travel?",
+        "a": "Yes, I come to your getting-ready location. Travel costs depend on the location and are listed in the quote."
+      },
+      {
+        "q": "What time do you arrive on the wedding day?",
+        "a": "We set it based on the photo schedule and the number of people to style. I usually arrive a few hours before photos, so nothing feels rushed."
+      },
+      {
+        "q": "Do I need a trial?",
+        "a": "It's not required, but it lets you choose a style calmly and see how it holds. We'll talk about it when I reply."
+      },
+      {
+        "q": "How many people can you style on one morning?",
+        "a": "It depends on the timing and the styles. Tell me how many people and I'll build a schedule that works."
+      },
+      {
+        "q": "How do I book the date?",
+        "a": "Once I confirm the date is free, it's held with a deposit. I'll send the details with your quote."
+      }
+    ]
+  },
+  "booking": {
+    "eyebrow": "Check my date",
+    "title": "Tell me about your event",
+    "text": "A few short details, and they reach me neatly on WhatsApp. I'll come back with availability and a quote.",
+    "tabsLabel": "Request type",
+    "tabs": {
+      "event": "Event",
+      "class": "Masterclass"
+    },
+    "steps": {
+      "event": "The event",
+      "style": "The hairstyle",
+      "class": "The training",
+      "contact": "Your details"
+    },
+    "fields": {
+      "type": "Type of event",
+      "types": {
+        "wedding": "Wedding",
+        "henna": "Henna",
+        "engagement": "Engagement",
+        "evening": "Evening / event",
+        "other": "Other"
+      },
+      "date": "Date",
+      "dateTaken": "This date is already booked, but do ask: sometimes it opens up.",
+      "dateFree": "This date looks free. I'll confirm by message.",
+      "city": "Getting-ready city",
+      "cityPlaceholder": "City, and the venue if you know it",
+      "time": "Time you need to be ready",
+      "style": "Which style?",
+      "styles": {
+        "chignon": "Updo",
+        "halfup": "Half-up",
+        "waves": "Waves",
+        "unsure": "Not sure yet"
+      },
+      "people": "People to style",
+      "peopleHint": "including you",
+      "trial": "Would you like a trial?",
+      "makeup": "Need a makeup artist too?",
+      "yesno": {
+        "yes": "Yes",
+        "no": "No"
+      },
+      "name": "Name",
+      "phone": "Phone",
+      "inspiration": "I'll send an inspiration photo on WhatsApp",
+      "message": "Anything else",
+      "messagePlaceholder": "The dress, the veil, what matters to you…",
+      "optional": "optional",
+      "level": "Your experience",
+      "levels": {
+        "beginner": "Just starting out",
+        "pro": "Working hairstylist"
+      },
+      "format": "Format",
+      "formats": {
+        "private": "Private",
+        "group": "Small group"
+      },
+      "when": "When suits you",
+      "whenPlaceholder": "Possible dates or months",
+      "instagram": "Instagram"
+    },
+    "calendar": {
+      "title": "Booked dates",
+      "taken": "Booked",
+      "prev": "Previous month",
+      "next": "Next month",
+      "updated": "Updated"
+    },
+    "required": "This field is needed",
+    "invalidPhone": "This number doesn't look right",
+    "submit": "Send on WhatsApp",
+    "hours": "I reply Sunday to Thursday, 8:30 am – 5 pm. Messages sent after 5 pm get a reply the next day.",
+    "success": {
+      "thanks": "Thank you",
+      "title": "Your message is ready on WhatsApp",
+      "text": "If WhatsApp didn't open, use the button. I'll get back to you soon. Mazal tov!",
+      "again": "Open WhatsApp",
+      "reset": "New request"
+    },
+    "message": {
+      "eventTitle": "Date check",
+      "classTitle": "Masterclass sign-up",
+      "type": "Event",
+      "date": "Date",
+      "city": "Getting ready at",
+      "time": "Ready by",
+      "style": "Hairstyle",
+      "people": "People to style",
+      "trial": "Trial",
+      "makeup": "Needs a makeup artist",
+      "name": "Name",
+      "phone": "Phone",
+      "notes": "Notes",
+      "inspiration": "I'll send an inspiration photo here",
+      "level": "Experience",
+      "format": "Format",
+      "when": "Availability",
+      "instagram": "Instagram",
+      "closing": "Sent from the website"
+    }
+  },
+  "whatsapp": {
+    "hello": "Hi Oshrat, I found you through your website. I'd like to check a date:",
+    "float": "Message me on WhatsApp"
+  },
+  "footer": {
+    "tagline": "Bridal and evening hair, and training for hairstylists.",
+    "contact": "Contact",
+    "explore": "On the site",
+    "hours": "Sun–Thu, 8:30 am – 5 pm",
+    "rights": "All rights reserved",
+    "photos": "All photos: brides styled by Oshrat Aharon",
+    "legal": "Legal & privacy"
+  },
+  "pages": {
+    "bridal": {
+      "eyebrow": "BRIDAL HAIRSTYLES",
+      "title": "Bridal hair",
+      "intro": "Bridal hair has to look right in the first photo and at the last dance. I build it around your dress, your veil and your face, and I come to wherever you're getting ready.",
+      "stylesTitle": "Four styles, endless versions",
+      "styles": [
+        {
+          "t": "Updo",
+          "x": "Low and sleek, soft and undone, or high and dramatic. Ideal with an open back and a long veil."
+        },
+        {
+          "t": "Half-up",
+          "x": "Face open, length down. Add a pin, flowers or a bow."
+        },
+        {
+          "t": "Waves",
+          "x": "Soft or Hollywood, glossy and full, and still there at the end of the night."
+        },
+        {
+          "t": "Veil & accessories",
+          "x": "Tiara, pearl pins or flowers, secured so they stay put, even on the dance floor."
+        }
+      ],
+      "cta": "Check my date"
+    },
+    "evening": {
+      "eyebrow": "EVENING HAIRSTYLES",
+      "title": "Evening hair",
+      "intro": "For the mother of the bride, sisters, friends or your own event. A hairstyle that suits the dress and the night, and stays in place while you dance.",
+      "stylesTitle": "For every occasion",
+      "styles": [
+        {
+          "t": "Waves",
+          "x": "Glossy and full, long or shoulder-length."
+        },
+        {
+          "t": "Updo",
+          "x": "Elegant and neat, for a high neckline or an open back."
+        },
+        {
+          "t": "Ponytails & braids",
+          "x": "A sleek high ponytail or a soft braid for a younger crowd."
+        }
+      ],
+      "companionsTitle": "The bridal party",
+      "companionsText": "Styling several people on one morning is all about timing. Tell me how many of you there are and when you need to be ready, and I'll build a clear plan.",
+      "cta": "Check my date"
+    },
+    "masterclass": {
+      "eyebrow": "PRIVATE MASTERCLASS",
+      "intro": "Private training at your own pace, on a real model, with everything I've learned on wedding mornings.",
+      "cta": "I want to sign up"
+    },
+    "legal": {
+      "title": "Legal & privacy",
+      "sections": [
+        {
+          "t": "Site owner",
+          "x": "Oshrat Aharon, bridal and evening hairstylist, Israel. Phone: +972 54-940-9503."
+        },
+        {
+          "t": "Privacy",
+          "x": "This site does not store what you type into the form. The message opens in your own WhatsApp and you send it yourself. No advertising cookies are used."
+        },
+        {
+          "t": "Photos",
+          "x": "All photos on this site are work by Oshrat Aharon, shown with permission. Please don't reuse them without consent."
+        },
+        {
+          "t": "Prices",
+          "x": "Prices shown are “from” prices and are not a binding offer. The final price is set in a personal quote."
+        }
+      ]
+    },
+    "back": "Back to home"
+  },
+  "alt": {
+    "ondulations": "Bride with long glossy waves, hair by Oshrat Aharon",
+    "chignon-dos": "Low bridal bun seen from behind, above an open-back dress",
+    "chignon-bijou": "Low bridal bun with a jewelled hair pin",
+    "chignon-flou": "Soft bridal updo with loose strands framing the face",
+    "chignon-bas": "Sleek low bridal bun, side view",
+    "chignon-haut": "High bridal updo with volume",
+    "semi-attache": "Half-up bridal hairstyle with waves",
+    "queue-de-cheval": "Long ponytail with glossy waves",
+    "couronne": "Bridal hairstyle with a tiara and accessories",
+    "fleurs": "Blonde waves with a floral hair accessory",
+    "soiree-attache": "High evening ponytail with face-framing strands",
+    "soiree-ondulations": "Evening hairstyle with full waves",
+    "tresse": "Fine side braid with long waves",
+    "masterclass-gestes": "A hairstylist's hands adjusting a bride's hair",
+    "masterclass-coulisses": "Behind the scenes at a shoot, half-up curls",
+    "lisse": "Long, sleek, glossy hair seen from behind",
+    "oshrat": "Oshrat Aharon, bridal and evening hairstylist"
+  }
+}
