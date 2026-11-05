@@ -2217,7 +2217,7 @@ La liste des informations à demander à Oshrat est dans **INFOS-A-DEMANDER.md**
 
 **`pages.masterclass.intro`**
 
-- עברית : השתלמות פרטית בקצב שלך, על דוגמנית אמיתית, עם כל מה שלמדתי מבקרים של חתונות.
+- עברית : השתלמות פרטית בקצב שלך, על דוגמנית אמיתית, עם כל מה שלמדתי בבקרים של חתונות.
 - Français : Une formation privée à votre rythme, sur un vrai modèle, avec tout ce que j'ai appris lors de matinées de mariage.
 - English : Private training at your own pace, on a real model, with everything I've learned on wedding mornings.
 - Español : Una formación privada a tu ritmo, con una modelo real y todo lo que he aprendido en mañanas de boda.
